@@ -1,0 +1,20 @@
+CLUSTERING SUMMARY
+
+K-MEANS ACCURACY
+                  from scratch
+accuracy (%)             96.55
+total points              1305
+correct (#)               1260
+misclassified (#)           45
+
+K-MEANS CENTROIDS
+           x from scratch  x sklearn  y from scratch  y sklearn
+cluster 1           4.981      4.988           2.178      2.187
+cluster 2           4.996      4.983           5.769      5.799
+cluster 3           5.068      5.069           8.372      8.395
+
+KNN DISTRIBUTION
+           % from scratch  % sklearn
+cluster 1           47.09      47.09
+cluster 2           30.66      30.66
+cluster 3           22.24      22.24
